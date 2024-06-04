@@ -4,7 +4,7 @@
 
   <div align="center" width="50">
     <p><b>Manav Baisoya</b></p>
-    <p>B.Tech ECE From IIIT-DELHI</p>
+    <p>B.Tech in Electronics and Communication Engineering from IIIT-DELHI</p>
     <p><b>Coding Profile Links:</b></p>
     <p><a href="https://www.geeksforgeeks.org/user/manav_">GeeksforGeeks</a></p>
     <p><a href="https://leetcode.com/u/manav92/">LeetCode</a></p>

@@ -21,7 +21,45 @@
   <!-- Add more icons as needed -->
 </p>
 
+### GitHub Repositories 🗂
+<div align="center">
+  <a href="https://github.com/manav-888/Translate-and-speech-text">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manav-888&repo=Translate-and-speech-text&theme=radical" />
+  </a>
+  <a href="https://github.com/manav-888/QR_Code_Generator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manav-888&repo=QR_Code_Generator&theme=radical" />
+  </a>
+  <a href="https://github.com/manav-888/calculator_app_by_tkinter">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manav-888&repo=calculator_app_by_tkinter&theme=radical" />
+  </a>
+  <a href="https://github.com/manav-888/Yotube-video-summarizer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manav-888&repo=Yotube-video-summarizer&theme=radical" />
+  </a>
+  <a href="https://github.com/manav-888/Nutritionist-Generative-AI-">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manav-888&repo=Nutritionist-Generative-AI-&theme=radical" />
+  </a>
+  <a href="https://github.com/manav-888/ATS-RESUME-CHECKER">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manav-888&repo=ATS-RESUME-CHECKER&theme=radical" />
+  </a>
+  <a href="https://github.com/manav-888/Text-to-SQL-LLM-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manav-888&repo=Text-to-SQL-LLM-app&theme=radical" />
+  </a>
+  <a href="https://github.com/manav-888/Chat-with-Multiple-PDF-Document">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manav-888&repo=Chat-with-Multiple-PDF-Document&theme=radical" />
+  </a>
+  <a href="https://github.com/manav-888/MultiLanguage-Invoice-Extractor">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manav-888&repo=MultiLanguage-Invoice-Extractor&theme=radical" />
+  </a>
+  <a href="https://github.com/manav-888/Image_Model">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manav-888&repo=Image_Model&theme=radical" />
+  </a>
+  
+</div>
+
+
 <details>
+
+  
   <summary><b>CLICK TO SHOW MY CV</b></summary>
   <br>
 
@@ -56,42 +94,4 @@
   </p>
 </details>
 
-### GitHub Stats 📊
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manav-888&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manav-888&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
-### GitHub Repositories 🗂
-<div align="center">
-  <a href="https://github.com/manav-888/Translate-and-speech-text">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manav-888&repo=Translate-and-speech-text&theme=radical" />
-  </a>
-  <a href="https://github.com/manav-888/QR_Code_Generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manav-888&repo=QR_Code_Generator&theme=radical" />
-  </a>
-  <a href="https://github.com/manav-888/calculator_app_by_tkinter">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manav-888&repo=calculator_app_by_tkinter&theme=radical" />
-  </a>
-  <a href="https://github.com/manav-888/Yotube-video-summarizer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manav-888&repo=Yotube-video-summarizer&theme=radical" />
-  </a>
-  <a href="https://github.com/manav-888/Nutritionist-Generative-AI-">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manav-888&repo=Nutritionist-Generative-AI-&theme=radical" />
-  </a>
-  <a href="https://github.com/manav-888/ATS-RESUME-CHECKER">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manav-888&repo=ATS-RESUME-CHECKER&theme=radical" />
-  </a>
-  <a href="https://github.com/manav-888/Text-to-SQL-LLM-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manav-888&repo=Text-to-SQL-LLM-app&theme=radical" />
-  </a>
-  <a href="https://github.com/manav-888/Chat-with-Multiple-PDF-Document">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manav-888&repo=Chat-with-Multiple-PDF-Document&theme=radical" />
-  </a>
-  <a href="https://github.com/manav-888/MultiLanguage-Invoice-Extractor">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manav-888&repo=MultiLanguage-Invoice-Extractor&theme=radical" />
-  </a>
-  <a href="https://github.com/manav-888/Image_Model">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manav-888&repo=Image_Model&theme=radical" />
-  </a>
-</div>

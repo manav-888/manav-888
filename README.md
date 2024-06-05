@@ -1,6 +1,6 @@
 <div align="center">
 	<h2>MANAV &nbsp; BAISOYA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h2>
-	<img src="https://media.tenor.com/images/d02f68f2b8785baa2e72115dec9bceed/tenor.gif" alt="Gif">
+	<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 </div>
 

@@ -16,15 +16,17 @@ Welcome to my profile! I'm a dedicated student at IIIT Delhi with a strong inter
 - **Developer Tools and Technologies**: Visual Studio, PyCharm, Google Colab, Git, Excel, Word, Arduino, Vivado, Zedboard, Photoshop
 
 ## Academic Project Experience 🛠️
-### GEN AI Projects – May 2024
-### Create ChatBot using Google Gemini Pro
-### Multi Language Invoice Extractor
+### GEN AI Projects – May 2024    
+
+### Create ChatBot using Google Gemini Pro <img alt="Coder GIF" align="right" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+
+### Multi Language Invoice Extractor 
 ### Chat with Multiple Pdf Documents
 ### ATS Resume Checker
 ### Text to SQL Query
-### Nutritionist-Generative-AI
+### Nutritionist-Generative-AI  
 ### YouTube Video Summarizer
-### Generate QR code 
+### Generate QR code  <img alt="Coder GIF" align="right" height="250" width="350" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 ### Translate and Speech Text 
 ### Modelling of 3D Objects  
 ### Home Automation 

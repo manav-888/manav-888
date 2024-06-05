@@ -39,11 +39,9 @@ Welcome to my profile! I'm a dedicated student at IIIT Delhi with a strong inter
 
 ## About Me 😄
 - **Languages**: English, Hindi
-- **Hobbies & Interests**: Video Editing, Logo Design, NGO (Ch. Sohan Lal Santosh Charitable Trust)
-- **Coding Profile**: GFG or Leetcode
+- **Hobbies & Interests**: Video Editing, Logo Design
 
 ## Contact 📫
-- **Phone Number**: 8882273337
 - **Email ID**: manavbaisoya92@gmail.com
 - **LinkedIn**: [Manav Baisoya](https://www.linkedin.com/in/manav-b-94819012a/)
 - **GitHub**: [manav-888](https://github.com/manav-888)

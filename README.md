@@ -4,7 +4,7 @@
 
 </div>
 
-# Hi there I am Manav Baisoya - Electronics and Communications Engineering Student   (IIIT DELHI) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h2>
+# Hi, I am Manav Baisoya - Electronics and Communications Engineering Student   (IIIT DELHI) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h2>
 
 ## Overview 🔭
 Welcome to my profile! I'm a dedicated student at IIIT Delhi with a strong interest in electronics and communications engineering. I am passionate about leveraging technology to solve real-world problems and have experience in various projects, including AI development and embedded systems.

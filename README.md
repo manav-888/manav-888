@@ -1,6 +1,7 @@
 <div align="center">
 	<h2>MANAV &nbsp; BAISOYA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h2>
 	<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+ 	<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 </div>
 
@@ -19,10 +20,10 @@ Welcome to my profile! I'm a dedicated student at IIIT Delhi with a strong inter
 ### Create ChatBot using Google Gemini Pro
 ### Multi Language Invoice Extractor
 ### Chat with Multiple Pdf Documents
-### ATS Resume Checker**
-### Text to SQL Query**
-### Nutritionist-Generative-AI**
-### YouTube Video Summarizer**
+### ATS Resume Checker
+### Text to SQL Query
+### Nutritionist-Generative-AI
+### YouTube Video Summarizer
 ### Generate QR code 
 ### Translate and Speech Text 
 ### Modelling of 3D Objects  

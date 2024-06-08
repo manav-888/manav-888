@@ -10,10 +10,20 @@
 ## Overview 🔭
 Welcome to my profile! I'm a dedicated student at IIIT Delhi with a strong interest in electronics and communications engineering. I am passionate about leveraging technology to solve real-world problems and have experience in various projects, including AI development and embedded systems.
 
+
+
+https://github.com/manav-888/manav-888/assets/28830098/ac70974b-962e-4b92-b9ad-353f731d466f
+
+
+
+
+
+
 ## Skills and Technologies 🛠️
 - **Programming Languages**: Python (Proficient), Java, MATLAB, Verilog
 - **Data Analysis**: Numpy, Pandas
-- **Developer Tools and Technologies**: Visual Studio, PyCharm, Google Colab, Git, Excel, Word, Arduino, Vivado, Zedboard, Photoshop
+- **Developer** : ios Developer , Android Developer
+- **Tools and Technologies**: Visual Studio, PyCharm, Google Colab, Git, Excel, Word, Arduino, Vivado, Zedboard, Photoshop
 
 ## Academic Project Experience 🛠️
 ### GEN AI Projects – May 2024    

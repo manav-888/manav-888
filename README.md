@@ -12,7 +12,10 @@ Welcome to my profile! I'm a dedicated student at IIIT Delhi with a strong inter
 
 
 
-https://github.com/manav-888/manav-888/assets/28830098/ac70974b-962e-4b92-b9ad-353f731d466f
+
+
+
+https://github.com/manav-888/manav-888/assets/28830098/c3ccd331-afc3-490f-b263-36658a9d5c42
 
 
 

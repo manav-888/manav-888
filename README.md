@@ -57,7 +57,7 @@ https://github.com/manav-888/manav-888/assets/28830098/c3ccd331-afc3-490f-b263-3
 
 ## Contact 📫
 - **Email ID**: manavbaisoya92@gmail.com
-- **LinkedIn**: [Manav Baisoya](https://www.linkedin.com/in/manav-b-94819012a/)
+- **LinkedIn**: [Manav Baisoya](www.linkedin.com/in/manav-baisoya-b51b09132)
 - **GitHub**: [manav-888](https://github.com/manav-888)
 
 ## GitHub Repositories 🗂

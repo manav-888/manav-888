@@ -21,13 +21,20 @@ https://github.com/manav-888/manav-888/assets/28830098/c3ccd331-afc3-490f-b263-3
 
 
 
+## Skills and Expertise 🛠️
+
+- **Programming Languages**: Python, SQL, JAVA, Matlab, Verilog, Flutter (Dart)
+- **Generative AI**: Prompt Engineering, Retrieval-Augmented Generation (RAG), Google Gemini AI
+- **Data Science**: Data Analysis, Data Visualization, Data Cleaning, Data Management
+- **Data Analysis Tools**: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn
+- **Tools**: Excel, PowerPoint, MySQL, PG-Admin
+- **Platforms**: Git, Visual Studio Code, Docker, PyCharm, Jupyter Notebook, Intellij IDEA
+- **Soft Skills**: Rapport Building, Strong Stakeholder Management, People Management, Excellent Communication
 
 
-## Skills and Technologies 🛠️
-- **Programming Languages**: Python (Proficient), Java, MATLAB, Verilog
-- **Data Analysis**: Numpy, Pandas
-- **Developer** : ios Developer , Android Developer
-- **Tools and Technologies**: Visual Studio, PyCharm, Google Colab, Git, Excel, Word, Arduino, Vivado, Zedboard, Photoshop
+
+
+
 
 ## Academic Project Experience 🛠️
 ### GEN AI Projects – May 2024    

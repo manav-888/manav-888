@@ -72,18 +72,20 @@ Aspiring Data Scientist with an educational background in Electronics and Commun
 
 
 ## Academic Project Experience 🛠️
-### GEN AI Projects – May 2024    
 
-### Create ChatBot using Google Gemini Pro <img alt="Coder GIF" align="right" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+###  AI-Powered NLP Web App: Sentiment Analysis & Text Generation
+### Web-based Chatbot with LLM Integration <img alt="Coder GIF" align="right" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
+### AI Voice Assistant
+### Algerian Forest Fires Prediction Model 
 ### Multi Language Invoice Extractor 
 ### Chat with Multiple Pdf Documents 
-### ATS Resume Checker
+### Smart ATS Resume Analyzer
 ### Text to SQL Query
 ### Nutritionist-Generative-AI  
 ### YouTube Video Summarizer
-### Generate QR code  <img alt="Coder GIF" align="right" height="250" width="350" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
-### Translate and Speech Text 
+### QR Code Generator  <img alt="Coder GIF" align="right" height="250" width="350" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
+### Text-to-Speech and Translation Application 
 ### Modelling of 3D Objects  
 ### Home Automation 
 ### Building Calculator App  

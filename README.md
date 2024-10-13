@@ -101,7 +101,7 @@ Aspiring Data Scientist with an educational background in Electronics and Commun
 
 ## Contact 📫
 - **Email ID**: manavbaisoya92@gmail.com
-- **LinkedIn**: [Manav Baisoya](https://www.linkedin.com/in/manav-b-94819012a/)
+- **LinkedIn**: [Manav Baisoya](https://www.linkedin.com/in/manav-baisoya-94819012a/)
 - **GitHub**: [manav-888](https://github.com/manav-888)
 
 ## GitHub Repositories 🗂

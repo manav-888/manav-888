@@ -74,7 +74,9 @@ Aspiring Data Scientist with an educational background in Electronics and Commun
 ## Academic Project Experience 🛠️
 
 ###  AI-Powered NLP Web App: Sentiment Analysis & Text Generation
-### Web-based Chatbot with LLM Integration <img alt="Coder GIF" align="right" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+### Web-based Chatbot with LLM Integration <img alt="Coder GIF" align="right" height=420 width=350 src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+
+
 
 ### AI Voice Assistant
 ### Algerian Forest Fires Prediction Model 

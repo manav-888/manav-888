@@ -9,7 +9,7 @@
 
 
 
-# Hi, I am Manav Baisoya - Electronics and Communications Engineering Student   (IIIT DELHI) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h2>
+# Hi, I am Manav Baisoya (IIIT DELHI) 
 
 ## Overview 🔭
 Aspiring Data Scientist with an educational background in Electronics and Communication Engineering and a robust skill set in data analysis, visualization, and management. Recent BTech graduate with hands-on experience using Python, SQL, and data science tools to conduct comprehensive data analytics projects.
@@ -96,6 +96,19 @@ Aspiring Data Scientist with an educational background in Electronics and Commun
 - **BTech, Electronics and Communications Engineering** (2016 - 2020)
 	- **Institution**: IIIT Delhi (Indraprastha Institute of Information Technology)
 	- **Courses**: Data Structures and Algorithms (DSA), Introduction to Engineering Design, Introduction to Programming, Embedded Logic Design, Probability and Statistics, Circuit Theory and Devices, etc.
+
+---
+<p>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/git.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Tensorflow.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/NumPy.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/pandas_logo.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Matplotlib.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/selenium.png" height=40 hspace=10>
+</p>
+
+----
 
 ## About Me 😄
 - **Languages**: English, Hindi

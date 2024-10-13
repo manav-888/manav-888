@@ -138,12 +138,20 @@ Aspiring Data Scientist with an educational background in Electronics and Commun
 	</a>
 </div>
 
+
+----
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SubhadeepZilong&layout=compact&theme=algolia" alt="SubhadeepZilong" /></a> </p>
+
+----
+
+
+
+
 Feel free to reach out to discuss new opportunities and ideas. Thank you for visiting my profile!
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=manav-888&label=Views&color=blue&style=plastic" alt="manav-888" />
 </p>
-
 
 
 

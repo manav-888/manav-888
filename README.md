@@ -97,6 +97,14 @@ Aspiring Data Scientist with an educational background in Electronics and Commun
 	- **Institution**: IIIT Delhi (Indraprastha Institute of Information Technology)
 	- **Courses**: Data Structures and Algorithms (DSA), Introduction to Engineering Design, Introduction to Programming, Embedded Logic Design, Probability and Statistics, Circuit Theory and Devices, etc.
 
+
+
+<p align='left'>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">&nbsp;&nbsp;
+</p>
+
 ---
 <p>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/git.png" height=40 hspace=10>

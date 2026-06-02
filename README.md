@@ -150,7 +150,7 @@ Aspiring Data Scientist with an educational background in Electronics and Commun
 
 
 ----
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SubhadeepZilong&layout=compact&theme=algolia" alt="SubhadeepZilong" /></a> </p>
+
 
 ----
 

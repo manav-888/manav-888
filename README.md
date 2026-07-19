@@ -89,12 +89,12 @@
 
 | Project | Description | Tech | Link |
 |---|---|---|---|
-| Web-based Chatbot with LLM Integration | Conversational chatbot built on an LLM backend | Python · Streamlit · LangChain | [repo](https://github.com/manav-888) |
-| MultiLanguage Invoice Extractor | Extracts structured data from invoices across languages | Python · Streamlit · Google Gemini AI | [repo](https://github.com/manav-888) |
-| Smart ATS Resume Analyzer | Scores and analyzes resumes against job descriptions | Python · Streamlit · Google Gemini AI | [repo](https://github.com/manav-888) |
-| YouTube Video Summarizer | Summarizes video content using generative AI | Python · Streamlit · Google Generative AI | [repo](https://github.com/manav-888) |
-| Algerian Forest Fires Prediction Model | ML model predicting forest fire risk | Python · Machine Learning · Flask | [repo](https://github.com/manav-888) |
-| AI Voice Assistant | Voice-driven assistant powered by Gemini API | Python · Streamlit · Google Gemini API | [repo](https://github.com/manav-888) |
+| Web-based Chatbot with LLM Integration | Conversational chatbot built on an LLM backend | Python · Streamlit · LangChain | [repo](https://github.com/manav-888/RAG_CHATBOT) |
+| AI Voice Assistant | Voice-driven assistant powered by Gemini API | Python · Streamlit · Google Gemini API | [repo](https://github.com/manav-888/AI_Voice_assistant) |
+| MultiLanguage Invoice Extractor | Extracts structured data from invoices across languages | Python · Streamlit · Google Gemini AI | [repo](https://github.com/manav-888/MultiLanguage-Invoice-Extractor) |
+| Smart ATS Resume Analyzer | Scores and analyzes resumes against job descriptions | Python · Streamlit · Google Gemini AI | [repo](https://github.com/manav-888/ATS-RESUME-CHECKER) |
+| Algerian Forest Fires Prediction Model | ML model predicting forest fire risk | Python · Machine Learning · Flask | [repo](https://github.com/manav-888/Forest_Fire_Prediction) |
+| YouTube Video Summarizer | Summarizes video content using generative AI | Python · Streamlit · Google Generative AI | [repo](https://github.com/manav-888/Yotube-video-summarizer) |
 
 ## 🔗 Connect
 

@@ -110,7 +110,7 @@
       <text x="160" y="518" font-family="'Segoe UI', Verdana, sans-serif" font-size="14" fill="#7a5ca3">Vaco Binary Semantics &#8226; Onsite Google</text>
       <text x="1200" y="495" text-anchor="end" font-family="'Consolas','Courier New',monospace" font-size="13" fill="#d626b8">November 2024</text>
       <text x="1200" y="514" text-anchor="end" font-family="'Consolas','Courier New',monospace" font-size="12" fill="#a98bd6">Gurgaon</text>
-      <line x1="160" y1="532" x2="1200" y2="632" stroke="#eeddff" stroke-width="1.5"/>
+      <line x1="160" y1="532" x2="1200" y2="532" stroke="#eeddff" stroke-width="1.5"/>
 
       
     </g>
@@ -122,7 +122,7 @@
       <text x="160" y="695" font-family="'Segoe UI', Verdana, sans-serif" font-size="19" font-weight="800" fill="url(#titleGrad2)">Innodata</text>
       <text x="160" y="718" font-family="'Segoe UI', Verdana, sans-serif" font-size="14" fill="#7a5ca3">Freelancer &#8226; Data Annotation &amp; AI Training</text>
       <text x="1200" y="695" text-anchor="end" font-family="'Consolas','Courier New',monospace" font-size="13" fill="#d626b8">Jan 2026 &#8211; Mar 2026</text>
-      <line x1="160" y1="732" x2="1200" y2="932" stroke="#eeddff" stroke-width="1.5"/>
+      <line x1="160" y1="732" x2="1200" y2="732" stroke="#eeddff" stroke-width="1.5"/>
 
       
     </g>
@@ -134,7 +134,7 @@
       <text x="160" y="915" font-family="'Segoe UI', Verdana, sans-serif" font-size="19" font-weight="800" fill="url(#titleGrad2)">Outlier</text>
       <text x="160" y="938" font-family="'Segoe UI', Verdana, sans-serif" font-size="14" fill="#7a5ca3">Freelancer &#8226; AI Model Evaluation</text>
       <text x="1200" y="915" text-anchor="end" font-family="'Consolas','Courier New',monospace" font-size="13" fill="#d626b8">Nov 2025 &#8211; Jan 2026</text>
-      <line x1="160" y1="952" x2="1200" y2="1152" stroke="#eeddff" stroke-width="1.5"/>
+      <line x1="160" y1="952" x2="1200" y2="952" stroke="#eeddff" stroke-width="1.5"/>
 
       
     </g>

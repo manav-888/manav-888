@@ -84,16 +84,17 @@
 
 
 
-## 🚀 Projects
 
-> Sample layout — swap in your real repositories any time.
+## 🚀 Projects
 
 | Project | Description | Tech | Link |
 |---|---|---|---|
-| RAG Knowledge Assistant | Retrieval-augmented Q&A system over private document sets, built on Gemini AI | Python · RAG · Gemini AI | [repo](https://github.com/manav-888) |
-| Prompt Engineering Toolkit | Reusable prompt templates and evaluation harness for LLM workflows | Python · Prompt Engineering | [repo](https://github.com/manav-888) |
-| Data Pipeline Suite | End-to-end ingestion, cleaning, and visualization pipeline | Python · SQL · Data Viz | [repo](https://github.com/manav-888) |
-| Cross-Platform Utility App | Mobile utility app | Flutter (Dart) | [repo](https://github.com/manav-888) |
+| Web-based Chatbot with LLM Integration | Conversational chatbot built on an LLM backend | Python · Streamlit · LangChain | [repo](https://github.com/manav-888) |
+| MultiLanguage Invoice Extractor | Extracts structured data from invoices across languages | Python · Streamlit · Google Gemini AI | [repo](https://github.com/manav-888) |
+| Smart ATS Resume Analyzer | Scores and analyzes resumes against job descriptions | Python · Streamlit · Google Gemini AI | [repo](https://github.com/manav-888) |
+| YouTube Video Summarizer | Summarizes video content using generative AI | Python · Streamlit · Google Generative AI | [repo](https://github.com/manav-888) |
+| Algerian Forest Fires Prediction Model | ML model predicting forest fire risk | Python · Machine Learning · Flask | [repo](https://github.com/manav-888) |
+| AI Voice Assistant | Voice-driven assistant powered by Gemini API | Python · Streamlit · Google Gemini API | [repo](https://github.com/manav-888) |
 
 ## 🔗 Connect
 
@@ -102,9 +103,20 @@
 <a href="mailto:manavbaisoya92@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+<a href="https://linkedin.com/in/manav-baisoya-94819012a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 <a href="https://github.com/manav-888">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+</div>
+
+
+
+
+
+
 
 </div>
 

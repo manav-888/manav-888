@@ -76,11 +76,6 @@
 </div>
 
 
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://ghchart.rshah.org/a259ff/manav-888" alt="Manav's GitHub contribution chart" width="100%">
-</div>
 
 
 

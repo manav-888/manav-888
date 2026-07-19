@@ -106,9 +106,20 @@
 <a href="https://linkedin.com/in/manav-baisoya-94819012a">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/manav-888">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+
+<a href="https://linkedin.com/in/manav-baisoya-94819012a" target="_blank">
+    <img src="linkedin-svgrepo-com.svg" alt="LinkedIn" width="50">
 </a>
+
+
+
+<a href="https://github.com/manav-888">
+  <img src="github-svgrepo-com.svg" alt="GitHub" width="48">
+</a>
+
+
+
 
 </div>
 

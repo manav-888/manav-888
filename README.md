@@ -43,6 +43,15 @@
 
 </div>
 
+
+
+<div align="center">
+<img src="trophies.svg?v=1" alt="Trophies" width="100%">
+</div>
+
+
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -50,9 +59,6 @@
 <img src="langs.svg?v=1" alt="Most used languages" width="48%">
 </div>
 
-<div align="center">
-<img src="trophies.svg?v=1" alt="Trophies" width="80%">
-</div>
 
 <div align="center">
 <img src="manav_experience_banner.svg?v=1" alt="education" width="100%">
@@ -64,17 +70,7 @@
 <img src="https://ghchart.rshah.org/a259ff/manav-888" alt="Manav's GitHub contribution chart" width="100%">
 </div>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manav-888/manav-888/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manav-888/manav-888/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/manav-888/manav-888/output/github-snake.svg" alt="Contribution snake animation" width="100%">
-</picture>
-
-</div>
 
 ## 🚀 Projects
 

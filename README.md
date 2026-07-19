@@ -51,7 +51,11 @@
 </div>
 
 <div align="center">
-<img src="trophies.svg?v=1" alt="Trophies" width="100%">
+<img src="trophies.svg?v=1" alt="Trophies" width="80%">
+</div>
+
+<div align="center">
+<img src="manav_experience_banner.svg?v=1" alt="education" width="100%">
 </div>
 
 ## 📈 Contribution Activity

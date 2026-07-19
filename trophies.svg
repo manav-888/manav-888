@@ -1,0 +1,65 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="trophyOuterClip"><rect x="0" y="0" width="900" height="200" rx="16"/></clipPath>
+    <style>
+    .tcell { opacity:0; transform: scale(0.7); animation: popCell 0.55s cubic-bezier(.2,1.5,.4,1) forwards; transform-box: fill-box; transform-origin: center; }
+    @keyframes popCell { to { opacity:1; transform: scale(1); } }
+    .trank-ring { stroke-dasharray: 264; stroke-dashoffset: 264; animation: ringFillT 1.1s cubic-bezier(.3,.8,.3,1) forwards; }
+    @keyframes ringFillT { to { stroke-dashoffset: 40; } }
+    .tshine { animation: shineMove 2.6s ease-in-out infinite; }
+    @keyframes shineMove { 0% { transform: translateX(0); opacity:0; } 10% { opacity:0.6; } 40% { transform: translateX(220px); opacity:0; } 100% { transform: translateX(220px); opacity:0; } }
+    </style>
+  </defs>
+  <g clip-path="url(#trophyOuterClip)">
+    <rect x="0" y="0" width="900" height="200" fill="#150a28"/>
+    <g class="tcell" style="animation-delay:0.40s" transform="translate(10,10)">
+      <rect x="0" y="0" width="126" height="180" rx="14" fill="#1c0e38" stroke="#ff8ad4" stroke-width="1.6"/>
+      <text x="63" y="34" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="12" fill="#c9b3e8">Commits</text>
+      <circle cx="63" cy="92" r="42" fill="none" stroke="#3a1f66" stroke-width="6"/>
+      <circle class="trank-ring" cx="63" cy="92" r="42" fill="none" stroke="#ff8ad4" stroke-width="6"
+              stroke-linecap="round" transform="rotate(-90 63 92)" style="animation-delay:0.70s"/>
+      <text x="63" y="99" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="20" font-weight="800" fill="#f5eaff">SSS</text>
+      <rect class="tshine" x="-60" y="0" width="40" height="180" fill="#ffffff" opacity="0.15" style="animation-delay:0.90s"/>
+    </g><g class="tcell" style="animation-delay:0.56s" transform="translate(150,10)">
+      <rect x="0" y="0" width="126" height="180" rx="14" fill="#1c0e38" stroke="#a259ff" stroke-width="1.6"/>
+      <text x="63" y="34" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="12" fill="#c9b3e8">Stars</text>
+      <circle cx="63" cy="92" r="42" fill="none" stroke="#3a1f66" stroke-width="6"/>
+      <circle class="trank-ring" cx="63" cy="92" r="42" fill="none" stroke="#a259ff" stroke-width="6"
+              stroke-linecap="round" transform="rotate(-90 63 92)" style="animation-delay:0.86s"/>
+      <text x="63" y="99" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="20" font-weight="800" fill="#f5eaff">SS</text>
+      <rect class="tshine" x="-60" y="0" width="40" height="180" fill="#ffffff" opacity="0.15" style="animation-delay:1.06s"/>
+    </g><g class="tcell" style="animation-delay:0.72s" transform="translate(290,10)">
+      <rect x="0" y="0" width="126" height="180" rx="14" fill="#1c0e38" stroke="#66d9c8" stroke-width="1.6"/>
+      <text x="63" y="34" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="12" fill="#c9b3e8">Followers</text>
+      <circle cx="63" cy="92" r="42" fill="none" stroke="#3a1f66" stroke-width="6"/>
+      <circle class="trank-ring" cx="63" cy="92" r="42" fill="none" stroke="#66d9c8" stroke-width="6"
+              stroke-linecap="round" transform="rotate(-90 63 92)" style="animation-delay:1.02s"/>
+      <text x="63" y="99" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="20" font-weight="800" fill="#f5eaff">A+</text>
+      <rect class="tshine" x="-60" y="0" width="40" height="180" fill="#ffffff" opacity="0.15" style="animation-delay:1.22s"/>
+    </g><g class="tcell" style="animation-delay:0.88s" transform="translate(430,10)">
+      <rect x="0" y="0" width="126" height="180" rx="14" fill="#1c0e38" stroke="#ffc548" stroke-width="1.6"/>
+      <text x="63" y="34" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="12" fill="#c9b3e8">Repositories</text>
+      <circle cx="63" cy="92" r="42" fill="none" stroke="#3a1f66" stroke-width="6"/>
+      <circle class="trank-ring" cx="63" cy="92" r="42" fill="none" stroke="#ffc548" stroke-width="6"
+              stroke-linecap="round" transform="rotate(-90 63 92)" style="animation-delay:1.18s"/>
+      <text x="63" y="99" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="20" font-weight="800" fill="#f5eaff">AA</text>
+      <rect class="tshine" x="-60" y="0" width="40" height="180" fill="#ffffff" opacity="0.15" style="animation-delay:1.38s"/>
+    </g><g class="tcell" style="animation-delay:1.04s" transform="translate(570,10)">
+      <rect x="0" y="0" width="126" height="180" rx="14" fill="#1c0e38" stroke="#ff8ad4" stroke-width="1.6"/>
+      <text x="63" y="34" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="12" fill="#c9b3e8">PRs Merged</text>
+      <circle cx="63" cy="92" r="42" fill="none" stroke="#3a1f66" stroke-width="6"/>
+      <circle class="trank-ring" cx="63" cy="92" r="42" fill="none" stroke="#ff8ad4" stroke-width="6"
+              stroke-linecap="round" transform="rotate(-90 63 92)" style="animation-delay:1.34s"/>
+      <text x="63" y="99" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="20" font-weight="800" fill="#f5eaff">A</text>
+      <rect class="tshine" x="-60" y="0" width="40" height="180" fill="#ffffff" opacity="0.15" style="animation-delay:1.54s"/>
+    </g><g class="tcell" style="animation-delay:1.20s" transform="translate(710,10)">
+      <rect x="0" y="0" width="126" height="180" rx="14" fill="#1c0e38" stroke="#a259ff" stroke-width="1.6"/>
+      <text x="63" y="34" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="12" fill="#c9b3e8">Experience</text>
+      <circle cx="63" cy="92" r="42" fill="none" stroke="#3a1f66" stroke-width="6"/>
+      <circle class="trank-ring" cx="63" cy="92" r="42" fill="none" stroke="#a259ff" stroke-width="6"
+              stroke-linecap="round" transform="rotate(-90 63 92)" style="animation-delay:1.50s"/>
+      <text x="63" y="99" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="20" font-weight="800" fill="#f5eaff">S</text>
+      <rect class="tshine" x="-60" y="0" width="40" height="180" fill="#ffffff" opacity="0.15" style="animation-delay:1.70s"/>
+    </g>
+  </g>
+</svg>

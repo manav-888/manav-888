@@ -1,0 +1,67 @@
+<svg width="480" height="260" viewBox="0 0 480 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="langsClip"><rect x="0" y="0" width="480" height="260" rx="16"/></clipPath>
+    <style>
+    .card-in { opacity:0; animation: fadeUp 0.6s ease forwards; }
+    @keyframes fadeUp { from {opacity:0; transform:translateY(10px);} to {opacity:1; transform:translateY(0);} }
+    .lrow { opacity:0; animation: slideIn 0.5s ease forwards; }
+    @keyframes slideIn { from {opacity:0; transform:translateX(-12px);} to {opacity:1; transform:translateX(0);} }
+    </style>
+  </defs>
+  <g clip-path="url(#langsClip)" class="card-in">
+    <rect x="0" y="0" width="480" height="260" fill="#1c0e38"/>
+    <rect x="0.5" y="0.5" width="479" height="259" rx="16" fill="none" stroke="#5b2a86"/>
+    <text x="20" y="28" font-family="Segoe UI, Verdana, sans-serif" font-size="16" font-weight="800" fill="#f5eaff">Most Used Languages</text>
+    <g transform="translate(20,44)">
+      <g class="lrow" style="animation-delay:0.70s">
+      <circle cx="4" cy="42" r="5" fill="#3572A5"/>
+      <text x="18" y="46" font-family="Segoe UI, Verdana, sans-serif" font-size="13" fill="#f5eaff">Python</text>
+      <text x="420" y="46" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#c9b3e8">42%</text>
+      <rect x="118" y="33" width="300" height="9" rx="4.5" fill="#3a1f66"/>
+      <rect x="118" y="33" height="9" rx="4.5" fill="#3572A5">
+        <animate attributeName="width" from="0" to="126.0" begin="0.85s" dur="0.85s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+      </rect>
+    </g><g class="lrow" style="animation-delay:0.84s">
+      <circle cx="4" cy="74" r="5" fill="#f1e05a"/>
+      <text x="18" y="78" font-family="Segoe UI, Verdana, sans-serif" font-size="13" fill="#f5eaff">JavaScript</text>
+      <text x="420" y="78" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#c9b3e8">18%</text>
+      <rect x="118" y="65" width="300" height="9" rx="4.5" fill="#3a1f66"/>
+      <rect x="118" y="65" height="9" rx="4.5" fill="#f1e05a">
+        <animate attributeName="width" from="0" to="54.0" begin="0.99s" dur="0.85s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+      </rect>
+    </g><g class="lrow" style="animation-delay:0.98s">
+      <circle cx="4" cy="106" r="5" fill="#e38c00"/>
+      <text x="18" y="110" font-family="Segoe UI, Verdana, sans-serif" font-size="13" fill="#f5eaff">SQL</text>
+      <text x="420" y="110" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#c9b3e8">14%</text>
+      <rect x="118" y="97" width="300" height="9" rx="4.5" fill="#3a1f66"/>
+      <rect x="118" y="97" height="9" rx="4.5" fill="#e38c00">
+        <animate attributeName="width" from="0" to="42.0" begin="1.13s" dur="0.85s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+      </rect>
+    </g><g class="lrow" style="animation-delay:1.12s">
+      <circle cx="4" cy="138" r="5" fill="#b07219"/>
+      <text x="18" y="142" font-family="Segoe UI, Verdana, sans-serif" font-size="13" fill="#f5eaff">Java</text>
+      <text x="420" y="142" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#c9b3e8">11%</text>
+      <rect x="118" y="129" width="300" height="9" rx="4.5" fill="#3a1f66"/>
+      <rect x="118" y="129" height="9" rx="4.5" fill="#b07219">
+        <animate attributeName="width" from="0" to="33.0" begin="1.27s" dur="0.85s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+      </rect>
+    </g><g class="lrow" style="animation-delay:1.26s">
+      <circle cx="4" cy="170" r="5" fill="#00B4AB"/>
+      <text x="18" y="174" font-family="Segoe UI, Verdana, sans-serif" font-size="13" fill="#f5eaff">Dart</text>
+      <text x="420" y="174" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#c9b3e8">9%</text>
+      <rect x="118" y="161" width="300" height="9" rx="4.5" fill="#3a1f66"/>
+      <rect x="118" y="161" height="9" rx="4.5" fill="#00B4AB">
+        <animate attributeName="width" from="0" to="27.0" begin="1.41s" dur="0.85s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+      </rect>
+    </g><g class="lrow" style="animation-delay:1.40s">
+      <circle cx="4" cy="202" r="5" fill="#b2b7f8"/>
+      <text x="18" y="206" font-family="Segoe UI, Verdana, sans-serif" font-size="13" fill="#f5eaff">Verilog</text>
+      <text x="420" y="206" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#c9b3e8">6%</text>
+      <rect x="118" y="193" width="300" height="9" rx="4.5" fill="#3a1f66"/>
+      <rect x="118" y="193" height="9" rx="4.5" fill="#b2b7f8">
+        <animate attributeName="width" from="0" to="18.0" begin="1.55s" dur="0.85s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+      </rect>
+    </g>
+    </g>
+  </g>
+</svg>

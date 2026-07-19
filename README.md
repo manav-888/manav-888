@@ -1,133 +1,101 @@
 <div align="center">
-	<h2>MANAV &nbsp; BAISOYA</h2>
-	<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
- 	<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
+  <img src="banner.svg?v=1" alt="Manav Baisoya banner" width="100%">
+</picture>
+
+<br/>
+
+<img src="lanyard.svg?v=1" alt="Manav Baisoya ID badge" width="230">
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=manav-888&label=Profile%20Views&color=a259ff&style=for-the-badge" alt="Profile views"/>
+
+<a href="mailto:manavbaisoya92@gmail.com">
+  <img src="https://img.shields.io/badge/Email-manavbaisoya92%40gmail.com-ff8ad4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/manav-888">
+  <img src="https://img.shields.io/badge/GitHub-manav--888-a259ff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
+<br/>
 
+## 🧰 Tech Stack
 
+<div align="center">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=openjdk&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-black?style=for-the-badge&logo=v&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter%20(Dart)-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini%20AI-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-ff8ad4?style=for-the-badge&logo=databricks&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-a259ff?style=for-the-badge&logo=openai&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-2c3e50?style=for-the-badge&logo=pandas&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-e34c26?style=for-the-badge&logo=plotly&logoColor=white)
 
-# Hi, I am Manav Baisoya (IIIT DELHI) 
+</div>
 
-## Overview 🔭
-Aspiring Data Scientist with an educational background in Electronics and Communication Engineering and a robust skill set in data analysis, visualization, and management. Recent BTech graduate with hands-on experience using Python, SQL, and data science tools to conduct comprehensive data analytics projects.
+## 📊 GitHub Stats
 
+<div align="center">
+<img src="stats.svg?v=1" alt="GitHub stats" width="48%">
+<img src="langs.svg?v=1" alt="Most used languages" width="48%">
+</div>
 
+<div align="center">
+<img src="trophies.svg?v=1" alt="Trophies" width="100%">
+</div>
 
+## 📈 Contribution Activity
 
+<div align="center">
+<img src="https://ghchart.rshah.org/a259ff/manav-888" alt="Manav's GitHub contribution chart" width="100%">
+</div>
 
+## 🐍 Contribution Snake
 
------
+<div align="center">
 
-<div>
-  <div align="right">
-    <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" height="300px" width="210px">
-  </div>
-  
-  <div align="left">
-    <p align="center">  
-      <h3 align="center">
-        <img src="https://media.giphy.com/media/DS89v1NqpzCqA/giphy.gif" width="90px">
-        <img src="https://media.giphy.com/media/5xaOcLBK3ktpfSfLcVa/giphy.gif" width="50px">
-        <img src="https://media.giphy.com/media/QoUU3x1dH505y/giphy.gif" width="50px">
-        <img src="https://media.giphy.com/media/LncsBVKWzRKRpzEdMw/giphy.gif" width="50px">
-        <img src="https://media.giphy.com/media/KI9S4tfLdMaK4/giphy.gif" width="50px">
-        <img src="https://media.giphy.com/media/TlK63Er5sVKVBLMQVMY/giphy.gif" width="50px">
-      </h3>
-      <p align="center"><img src="https://media.giphy.com/media/ozdUAW4iETQS2OggkO/giphy.gif" width="100px"></p>
-      <p align="center">
-        <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-        <code><a href="https://jupyter.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-        <code><a href="https://numpy.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
-        <code><a href="https://pandas.pydata.org/" target="_blank"><img height="10" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
-      </p>
-    </p>
-   </div>
- </div>
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manav-888/manav-888/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manav-888/manav-888/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/manav-888/manav-888/output/github-snake.svg" alt="Contribution snake animation" width="100%">
+</picture>
 
---------
+</div>
 
+## 🚀 Projects
 
+> Sample layout — swap in your real repositories any time.
 
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| RAG Knowledge Assistant | Retrieval-augmented Q&A system over private document sets, built on Gemini AI | Python · RAG · Gemini AI | [repo](https://github.com/manav-888) |
+| Prompt Engineering Toolkit | Reusable prompt templates and evaluation harness for LLM workflows | Python · Prompt Engineering | [repo](https://github.com/manav-888) |
+| Data Pipeline Suite | End-to-end ingestion, cleaning, and visualization pipeline | Python · SQL · Data Viz | [repo](https://github.com/manav-888) |
+| Cross-Platform Utility App | Mobile utility app | Flutter (Dart) | [repo](https://github.com/manav-888) |
 
+## 🔗 Connect
 
-## Skills and Expertise 🛠️
+<div align="center">
 
-- **Programming Languages**: Python, SQL, JAVA, Matlab, Verilog, Flutter (Dart)
-- **Generative AI**: Prompt Engineering, Retrieval-Augmented Generation (RAG), Google Gemini AI
-- **Data Science**: Data Analysis, Data Visualization, Data Cleaning, Data Management
-- **Data Analysis Tools**: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn
-- **Tools**: Excel, PowerPoint, MySQL, PG-Admin
-- **Platforms**: Git, Visual Studio Code, Docker, PyCharm, Jupyter Notebook, Intellij IDEA
-- **Soft Skills**: Rapport Building, Strong Stakeholder Management, People Management, Excellent Communication
+<a href="mailto:manavbaisoya92@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/manav-888">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
+</div>
 
-
-
-
-
-## Academic Project Experience 🛠️
-
-###  AI-Powered NLP Web App: Sentiment Analysis & Text Generation
-### Web-based Chatbot with LLM Integration <img alt="Coder GIF" align="right" height=420 width=350 src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
-
-
-
-### AI Voice Assistant
-### Algerian Forest Fires Prediction Model 
-### Multi Language Invoice Extractor 
-### Chat with Multiple Pdf Documents 
-### Smart ATS Resume Analyzer
-### Text to SQL Query
-### Nutritionist-Generative-AI  
-### YouTube Video Summarizer
-### QR Code Generator  <img alt="Coder GIF" align="right" height="250" width="350" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
-### Text-to-Speech and Translation Application 
-### Modelling of 3D Objects  
-### Home Automation 
-### Building Calculator App  
-
-## Education 📚
-- **BTech, Electronics and Communications Engineering** (2016 - 2020)
-	- **Institution**: IIIT Delhi (Indraprastha Institute of Information Technology)
-	- **Courses**: Data Structures and Algorithms (DSA), Introduction to Engineering Design, Introduction to Programming, Embedded Logic Design, Probability and Statistics, Circuit Theory and Devices, etc.
-
-
-
-<p align='left'>
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">&nbsp;&nbsp;
-</p>
-
-
-
-## About Me 😄
-- **Languages**: English, Hindi
-- **Hobbies & Interests**: Video Editing, Logo Design
-
-## Contact 📫
-- **Email ID**: manavbaisoya92@gmail.com
-- **LinkedIn**: [Manav Baisoya](https://www.linkedin.com/in/manav-baisoya-94819012a/)
-- **GitHub**: [manav-888](https://github.com/manav-888)
-
-## GitHub Repositories 🗂
-
-
-
-
-
-
-Feel free to reach out to discuss new opportunities and ideas. Thank you for visiting my profile!
-
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=manav-888&label=Views&color=blue&style=plastic" alt="manav-888" />
-</p>
-
-
-
-
-  
+<div align="center">
+<sub>Thanks for stopping by — keep coding, keep growing. ✨</sub>
+</div>

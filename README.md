@@ -25,6 +25,17 @@
 
 <br/>
 
+
+
+
+<div align="center">
+<img src="tech_stack.svg?v=1" alt="education" width="100%">
+</div>
+
+
+
+
+
 ## 🧰 Tech Stack
 
 <div align="center">

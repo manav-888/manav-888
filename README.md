@@ -103,20 +103,20 @@
 <a href="mailto:manavbaisoya92@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://linkedin.com/in/manav-baisoya-94819012a">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
 
 <a href="https://linkedin.com/in/manav-baisoya-94819012a" target="_blank">
-    <img src="linkedin-svgrepo-com.svg" alt="LinkedIn" width="50">
+    <img src="linkedin-svgrepo-com.svg" alt="LinkedIn" width="30">
 </a>
-
 
 
 <a href="https://github.com/manav-888">
-  <img src="github-svgrepo-com.svg" alt="GitHub" width="48">
+  <img src="github-svgrepo-com.svg" alt="GitHub" width="30">
 </a>
+
+
+
+
+
 
 
 

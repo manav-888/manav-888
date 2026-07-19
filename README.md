@@ -30,19 +30,16 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter%20(Dart)-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Java](https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=openjdk&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-black?style=for-the-badge&logo=v&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter%20(Dart)-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini%20AI-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-ff8ad4?style=for-the-badge&logo=databricks&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-a259ff?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-2c3e50?style=for-the-badge&logo=pandas&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-e34c26?style=for-the-badge&logo=plotly&logoColor=white)
 
 </div>
 
@@ -56,46 +53,6 @@
 <div align="center">
 <img src="trophies.svg?v=1" alt="Trophies" width="100%">
 </div>
-
-## 💼 Experience
-
-**Senior Analyst** — Vaco Binary Semantics *(Onsite Google)* · Gurgaon
-`Jan 2025 – Current`
-- Worked in a high-performing cross-functional team enhancing AI and SEO solutions for next-generation ad services.
-- Reviewed and optimised AIO-generated content paired with Google Ads, ensuring compliance with quality guidelines and alignment with client objectives.
-- Delivered consistent high-quality outcomes, supporting business goals of improving future advertising services.
-
-**Associate Analyst** — Vaco Binary Semantics *(Onsite Google)* · Gurgaon
-`Nov 2024 – Jan 2025`
-- Conducted end-to-end validation of 500+ merchant promotions weekly, ensuring 100% compliance with editorial guidelines.
-- Reviewed multi-source promotion data (third-party feeds, Content API, crawled API) to maintain accuracy and relevance.
-- Identified and rejected non-compliant promotions, reducing guideline violations by 15% month-over-month.
-- Collaborated cross-functionally with editorial and product teams, improving review efficiency by 20%.
-
-**Freelance AI Data Trainer** — Outlier
-`Nov 2025 – Jan 2026`
-- Participated in AI model training and evaluation projects — assessing, ranking, and improving AI-generated content.
-- Reviewed model outputs for factual accuracy, relevance, and adherence to quality guidelines to improve LLM performance.
-
-**Freelance Data Annotator** — Innodata
-`Jan 2026 – Mar 2026`
-- Annotated, categorized, and validated structured and unstructured data to support AI/ML applications.
-- Delivered expert-level data processing and annotation services with high accuracy and consistency.
-
-## 🎓 Education
-
-| Degree | Institute | Year |
-|---|---|---|
-| Bachelor of Technology, Electronics & Communication Engineering (ECE) | IIIT Delhi | — |
-| Post Graduate Diploma in Data Science (PGD-DSHCS) | IIIT Delhi | 2025 |
-
-## 📜 Certifications
-
-- Introduction to Internet of Things — NPTEL
-- Financial Markets — Coursera
-- Core Java — Internshala
-- Data Structures & Algorithms in Python — GeeksforGeeks (2024)
-
 
 ## 📈 Contribution Activity
 
@@ -117,14 +74,14 @@
 
 ## 🚀 Projects
 
+> Sample layout — swap in your real repositories any time.
+
 | Project | Description | Tech | Link |
 |---|---|---|---|
-| Web-based Chatbot with LLM Integration | Conversational chatbot built on an LLM backend | Python · Streamlit · LangChain | [repo](https://github.com/manav-888) |
-| MultiLanguage Invoice Extractor | Extracts structured data from invoices across languages | Python · Streamlit · Google Gemini AI | [repo](https://github.com/manav-888) |
-| Smart ATS Resume Analyzer | Scores and analyzes resumes against job descriptions | Python · Streamlit · Google Gemini AI | [repo](https://github.com/manav-888) |
-| YouTube Video Summarizer | Summarizes video content using generative AI | Python · Streamlit · Google Generative AI | [repo](https://github.com/manav-888) |
-| Algerian Forest Fires Prediction Model | ML model predicting forest fire risk | Python · Machine Learning · Flask | [repo](https://github.com/manav-888) |
-| AI Voice Assistant | Voice-driven assistant powered by Gemini API | Python · Streamlit · Google Gemini API | [repo](https://github.com/manav-888) |
+| RAG Knowledge Assistant | Retrieval-augmented Q&A system over private document sets, built on Gemini AI | Python · RAG · Gemini AI | [repo](https://github.com/manav-888) |
+| Prompt Engineering Toolkit | Reusable prompt templates and evaluation harness for LLM workflows | Python · Prompt Engineering | [repo](https://github.com/manav-888) |
+| Data Pipeline Suite | End-to-end ingestion, cleaning, and visualization pipeline | Python · SQL · Data Viz | [repo](https://github.com/manav-888) |
+| Cross-Platform Utility App | Mobile utility app | Flutter (Dart) | [repo](https://github.com/manav-888) |
 
 ## 🔗 Connect
 
@@ -132,9 +89,6 @@
 
 <a href="mailto:manavbaisoya92@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://linkedin.com/in/manav-baisoya-94819012a">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/manav-888">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
